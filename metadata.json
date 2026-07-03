@@ -1,0 +1,6 @@
+{
+  "name": "tobipack",
+  "description": "Exkluzívny slovenský sťahovač hier. Rýchle direct downloady predinštalovaných PC hier bez zbytočného presmerovania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
